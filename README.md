@@ -9,7 +9,7 @@ This project performs basic arithmetic operations with an intuitive layout simil
 
 ---
 
-## ✨ Features
+# ✨ Features
 - Basic arithmetic operations (+, −, ×, ÷)
 - Clear (C) button to reset input
 - Backspace button to delete the last character
